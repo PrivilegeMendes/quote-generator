@@ -1,5 +1,4 @@
 const localQuotes = [
-
     {
         text: 'Do not let the perceptions of your circumstances limit your opportunities.',
         author: 'Danny Karr',
@@ -30,7 +29,7 @@ const localQuotes = [
     {
         text:"Any code of your own that you have't looked at for six or more months might as well have been written by someone else.",
         author: "Eagleson's Law",
-    }
+    },
 
 
 ]
